@@ -1,2 +1,1 @@
-# sql_project_1
-Wallmart Sales Analysis with SQL
+Music Store Date Analysis With SQL
